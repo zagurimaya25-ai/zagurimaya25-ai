@@ -9,6 +9,12 @@ I enjoy turning complex challenges into practical, measurable solutions.
 
 ---
 
+### Multi-Agent AI Systems & Intelligent Automation
+
+I design and orchestrate tailored teams of AI agents, strategically combining cost-efficient and advanced AI models to optimize performance, accuracy, and operational efficiency. My expertise includes intelligent task delegation, multi-agent collaboration, workflow automation, and building scalable AI-driven solutions tailored to diverse business and technical challenges.
+
+---
+
 ### What I Work On
 - **AI & Automation** — Building intelligent workflows and tools
 - **Operations & Projects** — Improving processes and driving execution
@@ -16,7 +22,7 @@ I enjoy turning complex challenges into practical, measurable solutions.
 - **Product Thinking** — Connecting business needs with technology
 
 ### Selected Projects
-🚀 Projects and case studies coming soon.
+🚀 🚀 [AssemblyLens](https://github.com/zagurimaya25-ai/AssemblyLens) — Confidential product case study showcasing product leadership, AI-assisted development, and TypeScript.
 
 ### Let's Connect
 🌐 [Portfolio](https://maya-zaguri.vercel.app/)  
